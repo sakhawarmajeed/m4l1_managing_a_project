@@ -9,5 +9,3 @@ Coral
 Silver
 Fuchsia
 Gray
-Brown
-Red
